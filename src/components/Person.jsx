@@ -7,6 +7,10 @@ const Person = (props) => {
       <p>{props.phone}</p>
       <p>{props.email}</p>
       <p>{props.animal}</p>
+      <p>{props.start}</p>
+      <p>{props.location}</p>
+      <p>{props.department}</p>
+      <p>{props.skills}</p>
     </div>
   );
 };

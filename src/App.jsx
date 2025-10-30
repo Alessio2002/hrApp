@@ -169,6 +169,10 @@ function App() {
           phone={"Puh. 040-1234567"}
           email={"Sähköposti: matti.meikalainen@ohjelmisto.fi"}
           animal={"Lemmikki: Koira"}
+          start={"Aloitus: 01.01.2020"}
+          location={"Sijainti: Helsinki"}
+          department={"Osasto: Tuotekehitys"}
+          skills={"Taidot: JavaScript, React, Node.js"}
         />
         <Person
           id={"person2"}
@@ -178,6 +182,10 @@ function App() {
           phone={"Puh. 050-7654321"}
           email={"Sähköposti: katja.korhonen@ohjelmisto.fi"}
           animal={"Lemmikki: Kissa"}
+          start={"Aloitus: 15.03.2021"}
+          location={"Sijainti: Espoo"}
+          department={"Osasto: Suunnittelu"}
+          skills={"Taidot: Figma, Adobe XD, Sketch"}
         />
         <Person
           id={"person3"}
@@ -187,6 +195,10 @@ function App() {
           phone={"Puh. 045-9876543"}
           email={"Sähköposti: elias.virtanen@ohjelmisto.fi"}
           animal={"Lemmikki: Papukaija"}
+          start={"Aloitus: 10.06.2019"}
+          location={"Sijainti: Vantaa"}
+          department={"Osasto: IT-tuki"}
+          skills={"Taidot: AWS, Docker, Kubernetes"}
         />
         <Person
           id={"person4"}
@@ -196,6 +208,10 @@ function App() {
           phone={"Puh. 040-2345678"}
           email={"Sähköposti: pekka.lahtinen@ohjelmisto.fi"}
           animal={"Lemmikki: Kaniini"}
+          start={"Aloitus: 20.08.2020"}
+          location={"Sijainti: Turku"}
+          department={"Osasto: Tuotekehitys"}
+          skills={"Taidot: Python, Django, React"}
         />
         <Person
           id={"person5"}
@@ -205,6 +221,10 @@ function App() {
           phone={"Puh. 050-8765432"}
           email={"Sähköposti: laura.nieminen@ohjelmisto.fi"}
           animal={"Lemmikki: Hamsteri"}
+          start={"Aloitus: 05.11.2018"}
+          location={"Sijainti: Tampere"}
+          department={"Osasto: Hallinto"}
+          skills={"Taidot: Scrum, Agile, Jira"}
         />
         <Person
           id={"person6"}
@@ -214,6 +234,10 @@ function App() {
           phone={"Puh. 045-6789123"}
           email={"Sähköposti: jussi.salminen@ohjelmisto.fi"}
           animal={"Lemmikki: Kilpikonna"}
+          start={"Aloitus: 12.02.2019"}
+          location={"Sijainti: Oulu"}
+          department={"Osasto: Tietoturva"}
+          skills={"Taidot: Penetraatiotestaus, Verkkoanalyysi"}
         />
         <Person
           id={"person7"}
@@ -223,6 +247,10 @@ function App() {
           phone={"Puh. 040-3456789"}
           email={"Sähköposti: sanna.korpi@ohjelmisto.fi"}
           animal={"Lemmikki: Marsu"}
+          start={"Aloitus: 18.04.2021"}
+          location={"Sijainti: Jyväskylä"}
+          department={"Osasto: Laadunvarmistus"}
+          skills={"Taidot: Selenium, JUnit, TestRail"}
         />
         <Person
           id={"person8"}
@@ -232,6 +260,10 @@ function App() {
           phone={"Puh. 050-9876543"}
           email={"Sähköposti: antti.makinen@ohjelmisto.fi"}
           animal={"Lemmikki: Akvaariokalat"}
+          start={"Aloitus: 22.07.2019"}
+          location={"Sijainti: Lahti"}
+          department={"Osasto: Tuotekehitys"}
+          skills={"Taidot: JavaScript, Node.js, Angular, MongoDB"}
         />
         <Person
           id={"person9"}
@@ -241,6 +273,10 @@ function App() {
           phone={"Puh. 045-1234987"}
           email={"Sähköposti: emilia.laine@ohjelmisto.fi"}
           animal={"Lemmikki: Hamsteri"}
+          start={"Aloitus: 30.09.2020"}
+          location={"Sijainti: Kuopio"}
+          department={"Osasto: Analytiikka"}
+          skills={"Taidot: Python, R, SQL, Tableau"}
         />
         <Person
           id={"person10"}
@@ -250,6 +286,10 @@ function App() {
           phone={"Puh. 040-4567890"}
           email={"Sähköposti: tomi.heikkinen@ohjelmisto.fi"}
           animal={"Lemmikki: Rottweiler"}
+          start={"Aloitus: 14.01.2018"}
+          location={"Sijainti: Espoo"}
+          department={"Osasto: IT-arkkitehtuuri"}
+          skills={"Taidot: AWS, Azure, GCP"}
         />
       </div>
 
